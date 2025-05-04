@@ -8,6 +8,7 @@ I'm a software engineer, passionate about cloud. I enjoy exploring new technolog
 - aws cloud
 - kotlin
 - python
+- java
 
 ## 👯 I’m looking to collaborate on
 - Open-source projects
@@ -17,11 +18,5 @@ I'm a software engineer, passionate about cloud. I enjoy exploring new technolog
 - LinkedIn: https://www.linkedin.com/in/aman-kumar-881732196/
 - Twitter: @Amankum36507389
 
-## ⚡ Fun fact
-[Your Fun Fact]
-
-## 🚀 My Top Languages
-* c++
-* python
-* sql
+  
 
